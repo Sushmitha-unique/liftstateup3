@@ -1,0 +1,18 @@
+.parent{
+    background-color: green;
+    height: 400px;
+    padding: 8px;
+}
+.child1{
+    background-color: brown;
+    padding: 4px;
+}
+.child2{
+    position: absolute;
+    width: 98%;
+    background-color: yellow;
+}
+.text{
+    position:fixed;
+   margin-top: 120px;
+}
